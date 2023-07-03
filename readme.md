@@ -7,7 +7,7 @@ Created this plugin to show that how we can work with wordpress Test Driven appr
 Installation
 ------------
 
-1.  Download the PrimaryCategory plugin ZIP file.
+1.  Download the TDD plugin ZIP file.
 2.  Log in to your WordPress admin dashboard.
 3.  Go to "Plugins" > "Add New".
 4.  Click on the "Upload Plugin" button.
@@ -26,9 +26,9 @@ Demonstration of TDD approach.
 Development
 -----------
 
-To contribute to the development of the PrimaryCategory plugin, follow these steps:
+To contribute to the development of the TDD plugin, follow these steps:
 
-1.  Clone the repository: `git clone https://github.com/your/repository.git`
+1.  Clone the repository: `git clone https://github.com/ifarankhan/TDD-wordpress.git`
 2.  Install the project dependencies: `composer install`
 3.  Make your changes and test them locally.
 4.  Submit a pull request describing your changes.
@@ -43,15 +43,15 @@ To contribute to the development of the PrimaryCategory plugin, follow these ste
 Testing
 -------
 
-The PrimaryCategory plugin includes unit tests to ensure the functionality is working correctly. To run the tests, follow these steps:
+The TDD plugin includes unit tests to ensure the functionality is working correctly. To run the tests, follow these steps:
 
-1.  Navigate to the plugin directory: `cd primary-category`
+1.  Navigate to the plugin directory: `cd TDD`
 2.  Run the PHPUnit tests: `phpunit`
 
 Credits
 -------
 
-PrimaryCategory is developed and maintained by Your Name. If you have any questions or issues, please contact me at <your@email.com>.
+TDD is developed and maintained by Faran Ahmed. If you have any questions or issues, please contact me at faranakhan901@gmail.com
 
 Support
 -------
