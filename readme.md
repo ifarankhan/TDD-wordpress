@@ -46,7 +46,7 @@ Testing
 The TDD plugin includes unit tests to ensure the functionality is working correctly. To run the tests, follow these steps:
 
 1.  Navigate to the plugin directory: `cd TDD`
-2.  Run the PHPUnit tests: `phpunit`
+2.  `npm run test` to run tests or you can directly Run the PHPUnit tests: `phpunit`
 
 Credits
 -------
